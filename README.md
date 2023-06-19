@@ -1,6 +1,5 @@
 # wazuh-agent-playbook
-
-This README provides instructions on how to install and start the Wazuh agent on a group of webservers. The provided Ansible playbook automates the installation process by downloading the Wazuh agent deb file, installing it, and configuring it to connect to a Wazuh manager.
+ The provided Ansible playbook automates the installation process by downloading the Wazuh agent deb file, installing it, configuring it to connect to a Wazuh manager and enables it to start on boot.
 
 ## Prerequisites
 
